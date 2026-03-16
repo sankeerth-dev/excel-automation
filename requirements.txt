@@ -1,0 +1,4 @@
+pandas
+openpyxl
+num2words
+pywin32
